@@ -18,3 +18,7 @@ pkgandrew::mtcars
 
 rm(mean0)
 
+
+pkgandrew::mean0(c(1:5, NA))
+
+

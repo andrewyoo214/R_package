@@ -98,21 +98,6 @@ usethis::use_data(mtcars)
 패키지가 제대로 만들어졌는지 확인한다. Build 탭의 check 버튼을 누르면 되고, man 폴더에 문서 파일이 저장되는 것을 볼 수 있다. 결과에 *error* 가 없으면 제대로 된 것이다. **CRAN** 에 올리려면 warning과 note도 없어야 함을 기억하자.
 
 
-## 깃헙에 올리기
-
-마지막으로 Git 탭에서 commit, push 를 수행하면 패키지가 업데이트된다. `remote::install_github()` 으로 패키지를 설치하면 데이터를 불러올 수 있다.
-
-
-## 멘티 결과물 
-
-### 크로폴 팀 
-
-https://github.com/HeeyoungJoe/BicycleRoadKorea, https://github.com/kkunmando/Rthon_BicycleRoadKorea
-
-### 바이오스핀 팀 
-
-https://github.com/jykang00/overcomeCovidKor, https://github.com/irobii/overcomeCovidKor
-
 
 
 

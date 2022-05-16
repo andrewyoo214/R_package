@@ -1,13 +1,8 @@
 
-# RTHON2020
-
-<!-- badges: start -->
-<!-- badges: end -->
-
-![](https://www.oss.kr/editor/file/c14fc9a0/download/ad6c07c4-04f1-4983-90ef-8c67f7351c3a)
+# R Package Practice
 
 
-## R 패키지 프로젝트 만들기
+## R pkgandrew by Andrew
 
 ```r
 usethis::create_package("PATH/package_name")
